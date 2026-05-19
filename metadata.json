@@ -1,0 +1,6 @@
+{
+  "name": "PyPrac: Python Practicals Companion",
+  "description": "An interactive mathematical playground and copyable Python code repository for university linear algebra, probability, hypothesis testing, stochastic processes, regression, and numerical methods practicals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
